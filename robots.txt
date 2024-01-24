@@ -1,1 +1,1 @@
-Sitemap: /fastpages_template_2024/sitemap.xml
+Sitemap: http://hk.johnho.ca/fastpages_template_2024/sitemap.xml
